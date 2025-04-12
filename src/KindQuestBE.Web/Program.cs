@@ -32,4 +32,5 @@ app.Run();
 
 // Make the implicit Program.cs class public, so integration tests can reference the correct assembly for host building
 // This is a test
+// check check 1 2
 public partial class Program { }
